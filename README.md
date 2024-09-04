@@ -1,16 +1,25 @@
-## Hi there 👋
+Current graduate student at Binghamton University pursuing an MS in Information Systems, specialization in Applied Data Science. Check out my GitHub repositories to see what I'm working on!
 
-<!--
-**ohovey1/ohovey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Skills:
 
-Here are some ideas to get you started:
+**Languages:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- R
+- SQL
+- HTML
+
+**Data Science and Machine Learning:**
+
+- Pandas
+- Numpy
+- Scikit-learn
+- PyTorch
+- Seaborn
+- Matplotlib
+
+**Database Management:**
+
+- SQL
+- PostgreSQL
+- Elasticsearch
