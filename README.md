@@ -7,7 +7,7 @@ Graduate student at Binghamton University pursuing an MS in Information Systems,
 - Python
 - R
 - SQL
-- HTML
+- Java
 
 **Data Science and Machine Learning:**
 
